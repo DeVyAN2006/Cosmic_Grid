@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Environment — never commit secrets
+.env
+
+# Database
+*.db
+*.sqlite
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# ML models (large files)
+ml/models/*.onnx
+ml/models/*.pkl
+
+# OS
+.DS_Store

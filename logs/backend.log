@@ -1,0 +1,1569 @@
+📦 DB has 291 solar readings
+✅ Cache loaded with 288 readings
+⏱️  Scheduler started — polling NOAA every 5 minutes
+INFO:     127.0.0.1:49625 - "GET / HTTP/1.1" 200 OK
+📦 DB has 332 solar readings
+✅ Cache loaded with 288 readings
+⏱️  Scheduler started — polling NOAA every 5 minutes
+INFO:     127.0.0.1:49793 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49797 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49799 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:49800 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:49801 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49803 - "GET /storms/historical?limit=30 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49797 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49799 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:49800 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:49801 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49803 - "GET /storms/historical?limit=30 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49797 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49799 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:49800 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:49801 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49797 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49799 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:49800 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:49801 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49805 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49801 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49800 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49801 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49800 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49807 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49801 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49800 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49801 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49800 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49809 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49812 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49814 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49816 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49818 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49820 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49822 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49824 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49826 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49828 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49830 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49832 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49834 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49836 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49838 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49840 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49842 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49844 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49846 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49848 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49850 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49854 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49856 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49858 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49860 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49862 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49864 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49866 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49868 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49870 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49872 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49874 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49876 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49878 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49880 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49882 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49884 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49886 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49889 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49891 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49893 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49895 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49897 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49899 - "OPTIONS /action-plan HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49899 - "POST /action-plan HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:49901 - "OPTIONS /action-plan/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49899 - "POST /action-plan/ HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:49903 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49905 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49907 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49909 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49911 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49914 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49916 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49918 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49922 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49924 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49926 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49928 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49930 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49932 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49934 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49936 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49938 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49940 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49942 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49944 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49946 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49948 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49950 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49952 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49954 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49956 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49958 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49960 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49962 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49964 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49966 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49968 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49970 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49972 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49974 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49976 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49978 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49980 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49982 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49984 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49986 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49988 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49991 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49993 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49995 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49997 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49999 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50001 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50003 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50005 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50007 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50009 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50011 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50013 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50015 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50019 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50023 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50025 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50043 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50054 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50057 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:50059 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:50060 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50054 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50057 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:50059 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:50060 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50060 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50063 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50064 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50063 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50072 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50077 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50079 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50087 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50093 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50097 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50102 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50104 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50108 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50114 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50116 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50122 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50124 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50130 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50134 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50140 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50144 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50146 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50152 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50154 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50160 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50162 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50170 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50172 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50178 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50180 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50187 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50189 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50193 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50197 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50199 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50205 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50209 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50213 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50215 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50221 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50223 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50227 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50231 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50235 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50239 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50245 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50247 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50253 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50255 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50259 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50261 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50267 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50269 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50275 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50277 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50281 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50283 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50287 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50291 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50295 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50299 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50303 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50305 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50311 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50313 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50317 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50319 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50323 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50327 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50331 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50335 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50339 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50343 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50345 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50351 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50353 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50357 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50359 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50367 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50369 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50375 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50379 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50381 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50385 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50389 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50391 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50395 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50399 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50404 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50408 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50413 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50416 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:50413 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50418 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:50419 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50416 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:50418 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:50419 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50416 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50421 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50416 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50421 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50426 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50432 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50438 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50442 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50448 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50452 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50456 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50460 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50464 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50466 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50470 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50476 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50480 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50482 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50488 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50495 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50497 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50506 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50508 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50512 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50516 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50520 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50522 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50528 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50533 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50538 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50543 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50545 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50549 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50553 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50555 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50561 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50565 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50569 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50571 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50575 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50579 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50581 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50585 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50589 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50593 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50595 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50599 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50601 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50607 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50609 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50613 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50617 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50621 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50625 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50627 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50631 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50635 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50639 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50643 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50645 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50654 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50656 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50662 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50666 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50671 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50673 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50681 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50685 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50687 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50691 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50697 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50699 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50703 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50709 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50711 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50717 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50721 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50725 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50727 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50731 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50735 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50739 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50743 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50747 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50752 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50756 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50760 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50764 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50766 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50772 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50774 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50779 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50782 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50784 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:50786 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:50782 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50787 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50784 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:50786 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:50782 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50787 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50782 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50787 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50789 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50793 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50797 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50801 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50803 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50809 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50811 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50815 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50817 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50823 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50827 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50831 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50835 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50841 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50844 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50847 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50853 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50857 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50861 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50865 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50867 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50875 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50877 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50882 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50886 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50892 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50895 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50902 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50904 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50911 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50997 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50999 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51001 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51003 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51005 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51007 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51009 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51011 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51014 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51016 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51018 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51020 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51022 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51025 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51027 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51029 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51031 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51033 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51035 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51037 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51039 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51041 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51043 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51045 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51047 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51049 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51051 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51053 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51055 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51057 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51059 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51061 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51063 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51065 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51067 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51069 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51072 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51074 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51076 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51078 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51080 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51082 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51084 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51086 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51088 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51090 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51092 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51094 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51096 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51098 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51100 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51102 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51104 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51106 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51108 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51110 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51112 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51114 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51116 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51119 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51121 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:51123 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:51119 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51121 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:51124 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51123 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:51124 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51127 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51128 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51127 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51128 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51130 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51134 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51136 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51138 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51140 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51142 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51144 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51146 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51148 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51150 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51153 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51155 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51157 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51159 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51161 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51163 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51165 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51167 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51169 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51171 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51173 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51175 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51177 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51179 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51181 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51183 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51185 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51187 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51189 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51192 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51194 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51196 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51198 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51200 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51202 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51204 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53587 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53589 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53591 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53593 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53595 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53597 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53599 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53601 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53603 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53605 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53607 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53609 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53611 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53613 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53615 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53617 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53619 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53621 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53623 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53625 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53627 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53630 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53634 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53645 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53646 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53648 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53649 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53645 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53646 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53648 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53649 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53651 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53651 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53649 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53651 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53659 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53661 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53666 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53669 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53673 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53675 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53678 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53680 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53682 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53684 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53686 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53688 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53690 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53692 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53694 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53697 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53699 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53701 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53703 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53705 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53707 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53709 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53711 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53713 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53715 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53717 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53719 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53722 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53724 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53729 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53731 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53734 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53737 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53739 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53741 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53743 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53745 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53747 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53749 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53751 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53753 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53755 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53757 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53759 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53761 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53763 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53765 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53767 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53769 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53772 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53774 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53777 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53779 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53781 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53783 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53785 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53787 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53789 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53791 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53793 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53795 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53797 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53799 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53801 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53803 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53805 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53807 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53810 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53812 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53814 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53816 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53818 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53820 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53823 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53825 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53827 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53829 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53831 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53833 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53836 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53838 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53840 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53842 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53844 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53846 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53850 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53853 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53856 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53858 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53860 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53856 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53861 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53858 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53860 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:53861 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53856 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53860 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53863 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53856 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53867 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53869 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53871 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53877 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53880 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53882 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53885 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53887 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53890 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53893 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53895 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53897 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53899 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53901 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53903 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53906 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53908 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53910 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53912 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53914 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53916 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53918 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53920 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53923 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53925 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53928 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53930 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53932 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53934 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53938 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53940 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53945 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53947 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53949 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53951 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53953 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53955 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53957 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53961 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53963 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53965 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53967 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53969 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53971 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53973 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53975 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53977 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53980 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53982 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53984 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53986 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53988 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53990 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53992 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53994 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53996 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53998 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54000 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54002 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54004 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54006 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54008 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54010 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54012 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54014 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54016 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54018 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54021 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54023 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54025 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54027 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54029 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54031 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54033 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54037 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54039 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54041 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54043 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54045 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54047 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54049 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54054 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54056 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54060 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54062 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54064 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54067 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54069 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54070 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54064 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54067 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54069 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54070 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54067 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54064 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54070 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54064 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54077 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54079 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54081 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54083 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54085 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54087 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54090 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54113 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54115 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54118 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54120 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54122 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54124 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54126 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54128 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54130 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54132 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54134 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54136 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54138 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54140 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54144 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54147 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54151 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54155 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54157 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54160 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54162 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54164 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54166 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54168 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54170 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54172 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54174 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54176 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54178 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54180 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54182 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54184 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54186 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54188 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54190 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54192 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54194 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54196 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54198 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54201 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54203 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54205 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54207 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54209 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54211 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54213 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54215 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54217 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54220 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54222 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54224 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54226 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54228 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54231 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54233 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54240 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54241 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54243 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54244 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54240 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54241 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54243 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54244 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54244 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54243 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54244 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54243 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54247 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54250 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54252 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54254 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54263 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54265 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54267 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54269 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54271 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54277 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54279 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54283 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54285 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54286 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54287 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54287 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54286 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54289 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54291 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54286 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54287 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54285 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54283 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54283 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54285 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54293 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54295 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54297 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54299 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54301 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54303 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54306 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54308 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54310 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54312 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54314 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54316 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54318 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54320 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54323 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54325 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54327 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54329 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54333 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54335 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54337 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54339 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54341 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54343 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54345 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54348 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54350 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54352 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54354 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54356 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54358 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54360 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54362 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54364 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54367 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54369 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54371 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54374 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54376 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54378 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54380 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54383 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54385 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54388 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54390 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54392 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54394 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54396 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54398 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54401 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54403 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54405 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54407 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54409 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54412 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54414 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54416 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54418 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54421 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54423 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54427 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54429 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54438 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54440 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54442 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54444 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54446 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54448 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54451 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54453 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54455 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54451 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54453 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54456 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54455 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54453 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54451 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54456 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54453 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54451 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54462 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54464 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54467 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54469 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54472 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54474 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54476 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54478 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54480 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54482 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54484 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54486 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54488 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54490 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54492 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54496 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54498 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54501 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54503 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54506 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54508 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54511 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54513 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54516 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54518 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54520 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54522 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54525 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54527 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54529 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54533 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54535 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54537 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54540 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54542 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54546 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54548 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54550 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54552 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54554 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54556 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54558 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54561 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54564 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54566 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54572 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54574 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54578 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54580 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54582 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54585 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54587 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54624 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54626 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54628 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54633 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54635 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54639 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54641 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54643 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54645 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54647 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54649 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54651 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54653 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54656 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54658 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54664 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54681 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54683 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54693 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54697 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54698 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54699 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54701 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54703 - "GET /storms/historical?limit=30 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54697 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54698 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54699 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54701 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54703 - "GET /storms/historical?limit=30 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54697 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54698 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54699 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54701 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54697 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54698 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54699 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:54701 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54705 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54701 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54699 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54701 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54707 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54699 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54701 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54699 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54701 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54699 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54709 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54714 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54716 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54718 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54720 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54722 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54725 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54727 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54729 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54731 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54733 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54735 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54737 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54739 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54741 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54743 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54745 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54747 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54749 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54751 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54753 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54755 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54757 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54759 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54761 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54763 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54765 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54767 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54769 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54771 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54773 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54775 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54778 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54780 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54782 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54784 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54786 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54788 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54803 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54817 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54835 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54849 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54859 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54861 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54863 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54865 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54867 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54869 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54871 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54874 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54876 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54878 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54880 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54882 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54884 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54886 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54888 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54890 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54892 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54894 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54896 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54898 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54900 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54902 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55018 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55021 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55023 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:55021 - "GET /storms/historical?limit=30 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55025 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:55026 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55023 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55025 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:55029 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:55026 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55023 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55025 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:55021 - "GET /storms/historical?limit=30 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55029 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:55026 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55023 - "GET /solar-wind?hours=24 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55025 - "GET /regions HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:55029 - "GET /forecast HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:55032 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55026 - "GET /status HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55026 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55023 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55026 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55034 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55023 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55026 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55023 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55029 - "GET /forecast/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55023 - "GET /regions/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55036 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55052 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55054 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55056 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55058 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55062 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55064 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55066 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55068 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55070 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55072 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55076 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55078 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55088 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55090 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55102 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55104 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55110 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55112 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55116 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55118 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55122 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55126 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55131 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55133 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55139 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55141 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55145 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55149 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55153 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55156 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55162 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55165 - "GET /ws/live HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55169 - "GET /ws/live HTTP/1.1" 404 Not Found
+📦 DB has 388 solar readings
+✅ Cache loaded with 288 readings
+⏱️  Scheduler started — polling NOAA every 5 minutes
+INFO:     127.0.0.1:49618 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49618 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49618 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49612 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49618 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49612 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49618 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49619 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49614 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49612 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49615 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49614 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49619 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49615 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49619 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49615 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49619 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49615 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49627 - "OPTIONS /action-plan HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49627 - "POST /action-plan HTTP/1.1" 502 Bad Gateway
+INFO:     127.0.0.1:49692 - "POST /action-plan/ HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:49695 - "POST /action-plan HTTP/1.1" 502 Bad Gateway
+INFO:     127.0.0.1:49706 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49706 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49705 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49701 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49703 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49706 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49703 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49705 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49734 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49734 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49734 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49728 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49734 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49730 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49736 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49733 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49728 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49733 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49730 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49736 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49734 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49736 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49730 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49730 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49733 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49736 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49741 - "POST /action-plan HTTP/1.1" 502 Bad Gateway
+INFO:     127.0.0.1:49778 - "POST /action-plan HTTP/1.1" 502 Bad Gateway
+INFO:     127.0.0.1:49805 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49805 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49805 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49799 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49805 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49804 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49801 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49807 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49804 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49805 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49801 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49807 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49801 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49804 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49807 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49801 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49805 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49807 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49812 - "POST /action-plan HTTP/1.1" 502 Bad Gateway
+INFO:     127.0.0.1:49837 - "POST /action-plan HTTP/1.1" 502 Bad Gateway
+INFO:     127.0.0.1:49872 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49872 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49866 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49872 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49872 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49874 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49869 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49871 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49866 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49869 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49874 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49871 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49874 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49869 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49871 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49866 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49874 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49871 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49869 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49869 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49869 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49869 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49871 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49872 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49874 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49866 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49872 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49869 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49874 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49866 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49866 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49874 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49872 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49869 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49866 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49874 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49879 - "OPTIONS /action-plan HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49879 - "POST /action-plan HTTP/1.1" 502 Bad Gateway
+INFO:     127.0.0.1:49998 - "POST /action-plan HTTP/1.1" 502 Bad Gateway
+📦 DB has 390 solar readings
+✅ Cache loaded with 288 readings
+⏱️  Scheduler started — polling NOAA every 5 minutes
+INFO:     127.0.0.1:50596 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50596 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50591 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50596 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50593 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50595 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50593 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50595 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50742 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50742 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50741 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50739 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50737 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50741 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50739 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50742 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51894 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51894 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51894 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51894 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51889 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51892 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51890 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51894 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51892 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51890 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51896 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51889 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51890 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51892 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51896 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51894 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51890 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51892 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52174 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52174 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52174 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52174 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52176 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52169 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52173 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52171 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52174 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52176 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52173 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52171 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52174 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52173 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52171 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52176 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52173 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52171 - "GET /forecast HTTP/1.1" 200 OK
+📦 DB has 424 solar readings
+✅ Cache loaded with 288 readings
+⏱️  Scheduler started — polling NOAA every 5 minutes
+INFO:     127.0.0.1:49279 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49279 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49279 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49273 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49279 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49279 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49273 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49281 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49277 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49278 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49281 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49279 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49277 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49278 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49278 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49277 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49277 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49278 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49300 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49300 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49300 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49290 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49300 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49297 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49299 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49302 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49290 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49299 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49297 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49302 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49300 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49297 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49302 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49302 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49297 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49299 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49338 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49338 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49338 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49338 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49307 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49334 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49339 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49335 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49334 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49338 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49339 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49335 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49339 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49335 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49307 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49334 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49339 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49335 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49307 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49307 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49307 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49338 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49335 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49307 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49334 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49339 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49338 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49344 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49339 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49334 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49338 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49334 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49339 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49344 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49334 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49339 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49423 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49423 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49423 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49416 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49423 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49419 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49420 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49424 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49420 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49416 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49419 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49424 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49419 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49420 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49424 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49416 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49419 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49424 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49420 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49420 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49423 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49424 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49420 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49419 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49416 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49420 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49423 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49429 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49419 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49416 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49416 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49419 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49423 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49429 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49416 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49419 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49458 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49458 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49458 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49451 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49454 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49455 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49458 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49459 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49451 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49459 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49454 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49455 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49454 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49458 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49455 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49459 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49454 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49455 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49520 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49520 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49520 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49464 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49520 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49519 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49518 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49522 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49464 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49519 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49518 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49522 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49520 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49518 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49522 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49519 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49518 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49522 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49655 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49655 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49655 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49650 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49655 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49652 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49657 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49654 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49650 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49657 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49654 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49652 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49655 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49654 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49652 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49657 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49654 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49652 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49655 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49655 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49655 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49652 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49655 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49650 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49657 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49654 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49663 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49650 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49657 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49654 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49655 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49654 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49657 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49650 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49654 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49657 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49694 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49694 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49694 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49694 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49689 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49691 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49693 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49696 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49694 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49691 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49696 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49693 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49689 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49691 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49693 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49696 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49691 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49693 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49719 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49719 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49719 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49714 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49719 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49715 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49720 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49716 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49714 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49715 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49720 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49716 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49719 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49715 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49716 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49720 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49715 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49716 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49740 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49740 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49740 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49740 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49736 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49725 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49737 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49742 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49736 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49740 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49742 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49737 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49725 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49740 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49737 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49742 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49740 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49737 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50056 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50056 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50051 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50053 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50055 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50056 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50053 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50055 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50111 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50111 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50111 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50111 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50105 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50107 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50110 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50113 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50111 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50113 - "GET /storms/historical?limit=30 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50107 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50110 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50107 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50105 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50110 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50113 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50107 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50110 - "GET /regions HTTP/1.1" 200 OK
+📦 DB has 426 solar readings
+✅ Cache loaded with 288 readings
+⏱️  Scheduler started — polling NOAA every 5 minutes
+INFO:     127.0.0.1:50661 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50661 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50656 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50661 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50660 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50658 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50660 - "GET /regions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50658 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51003 - "GET /status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50999 - "GET /solar-wind?hours=24 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51001 - "GET /forecast HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51002 - "GET /regions HTTP/1.1" 200 OK
