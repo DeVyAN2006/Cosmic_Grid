@@ -25,3 +25,4 @@ ml/models/*.pkl
 # OS
 .DS_Store
 ml/data/
+logs/
