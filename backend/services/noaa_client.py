@@ -9,6 +9,7 @@ NOAA_ENDPOINTS = {
     "kp":         "https://services.swpc.noaa.gov/products/noaa-planetary-k-index.json",
     "xray":       "https://services.swpc.noaa.gov/json/goes/primary/xrays-7-day.json",
     "alerts":     "https://services.swpc.noaa.gov/products/alerts.json",
+    "dst":        "https://services.swpc.noaa.gov/products/kyoto-dst.json",  # Dst ≈ Sym-H
 }
 
 MAX_RETRIES    = 3
@@ -40,14 +41,16 @@ async def _fetch_json(client: httpx.AsyncClient, url: str) -> list:
 async def fetch_latest_solar_data() -> dict | None:
     try:
         async with httpx.AsyncClient(timeout=15.0) as client:
-            plasma, mag = await asyncio.gather(
+            plasma, mag, dst_data = await asyncio.gather(
                 _fetch_json(client, NOAA_ENDPOINTS["solar_wind"]),
                 _fetch_json(client, NOAA_ENDPOINTS["mag"]),
+                _fetch_json(client, NOAA_ENDPOINTS["dst"]),
             )
 
             # Latest readings (last row, skip header at index 0)
-            p = plasma[-1]   # [time, density, speed, temp]
-            m = mag[-1]      # [time, bx, by, bz, bt, lat, lon]
+            p = plasma[-1]    # [time, density, speed, temp]
+            m = mag[-1]       # [time, bx, by, bz, bt, lat, lon]
+            d = dst_data[-1]  # [time, dst_value]
 
             def safe_float(v, default: float) -> float:
                 try:
@@ -55,18 +58,24 @@ async def fetch_latest_solar_data() -> dict | None:
                 except (TypeError, ValueError):
                     return default
 
-            density = safe_float(p[1], 5.0)
-            speed   = safe_float(p[2], 400.0)
+            density  = safe_float(p[1], 5.0)
+            speed    = safe_float(p[2], 400.0)
+            bz       = safe_float(m[3], 0.0)
+            symh_val = safe_float(d[1], 0.0)  # Dst ≈ Sym-H in nT
+
+            # Approximate AE index from Bz and solar wind speed
+            # AE rises when Bz is southward (negative) and speed is high
+            ae_approx = max(0.0, min(2000.0, abs(bz) * speed * 0.05)) if bz < 0 else 100.0
 
             reading = {
                 "timestamp":      p[0],
                 "proton_density": density,
                 "sw_speed":       speed,
                 "proton_temp":    safe_float(p[3], 100_000.0),
-                "bz_nT":          safe_float(m[3], 0.0),
+                "bz_nT":          bz,
                 "flow_pressure":  density * speed ** 2 * 1.67e-6,
-                "ae_index":       100.0,
-                "symh_index":     0.0,
+                "ae_index":       ae_approx,  # dynamic — derived from Bz + speed
+                "symh_index":     symh_val,   # dynamic — live Dst from NOAA
             }
 
             solar_cache.append(reading)
