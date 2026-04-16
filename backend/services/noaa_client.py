@@ -50,7 +50,7 @@ async def fetch_latest_solar_data() -> dict | None:
             # Latest readings (last row, skip header at index 0)
             p = plasma[-1]    # [time, density, speed, temp]
             m = mag[-1]       # [time, bx, by, bz, bt, lat, lon]
-            d = dst_data[-1]  # [time, dst_value]
+            d = dst_data[-1]  # may be a list [time, dst] or dict {"time_tag": ..., "dst": ...}
 
             def safe_float(v, default: float) -> float:
                 try:
@@ -61,7 +61,11 @@ async def fetch_latest_solar_data() -> dict | None:
             density  = safe_float(p[1], 5.0)
             speed    = safe_float(p[2], 400.0)
             bz       = safe_float(m[3], 0.0)
-            symh_val = safe_float(d[1], 0.0)  # Dst ≈ Sym-H in nT
+            # Dst endpoint rows can be dicts or lists depending on NOAA format
+            if isinstance(d, dict):
+                symh_val = safe_float(d.get("dst") or d.get("Dst") or d.get("value"), 0.0)
+            else:
+                symh_val = safe_float(d[1], 0.0)  # list format: [time, dst]
 
             # Approximate AE index from Bz and solar wind speed
             # AE rises when Bz is southward (negative) and speed is high
